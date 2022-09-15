@@ -27,7 +27,7 @@ Hosting a website simply means making sure that your website can be accessible o
          - **Static**
          - **Dynamic**
  
-  - A static website delivers the same page and content to all users.
+        - A static website delivers the same page and content to all users.
 Examples include blogs, portfolio websites, and business websites. Static sites can usually take a more basic web hosting plan as they require less storage space and server resources.
 
 
