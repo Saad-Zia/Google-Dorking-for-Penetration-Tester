@@ -18,7 +18,7 @@ The Google search engine works similarly to an interpreter using search strings 
    - They are included as part of a standard Google query.
    - Advanced operators use a syntax such as the following:    
    
-        # operator:search_term
+        operator:search_term
         
    - There’s no space between the operator, the colon, and the 
 search term
