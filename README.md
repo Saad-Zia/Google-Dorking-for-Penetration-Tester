@@ -94,7 +94,7 @@ Here are the three steps to follow:
 
 - **1) Select equipment and software to build your server**
 
-- Basic server hardware can be very similar to the hardware on your own PC with some slight differences. You could take your own PC (or even laptop) and turn it into a home web server.
+     - Basic server hardware can be very similar to the hardware on your own PC with some slight differences. You could take your own PC (or even laptop) and turn it into a home web server.
 To handle huge number of visitors, you will need to keep an eye on processor, memory, and storage space. If it’s a rack server, you also need to ensure cooling, and power.
 To get reliable performance, you will also need to consider redundancy in hardware and active mirroring of backups onto additional drives.
 Your other infrastructure equipment such as routers and modems will also need to be able to handle high loads of traffic.
