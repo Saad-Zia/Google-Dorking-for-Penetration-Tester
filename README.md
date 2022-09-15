@@ -100,4 +100,12 @@ To get reliable performance, you will also need to consider redundancy in hardwa
 Your other infrastructure equipment such as routers and modems will also need to be able to handle high loads of traffic.
 Besides your operating system, you will need to focus on your web server platform (at the moment, Apache and Nginx are the most popular on the market). This also means that you need to be responsible for not just configuring the software, but also for licensing.
 
+- **2) Ensure sufficient bandwidth**
 
+     - Internet bandwidth is vital to running your own server. At home, we have limited connections to the Internet. Imagine if 30 people or more were trying to use your home Internet at the same time, your server will have to have capacity to handle.
+You need to take into consideration your IP address. Most home Internet plans come with dynamic IPs assigned. In order to run a web server, you need a static IP. This can either be handled by a service provider such as
+DynDNS or by buying the service from your Internet Service Provider (ISP).
+
+- **3) Ensure sufficient bandwidth**
+     
+     - The next part is similar to the experience of using a web hosting provider, except that you don’t get any support. Your web files need to be moved onto your web host in order for your site to start functioning.
