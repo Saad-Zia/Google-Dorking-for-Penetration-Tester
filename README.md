@@ -1,6 +1,6 @@
 # Google Dorking for Penetration Tester
 
-Hi! I'm **Saad Zia**. I am web penetration tester and bug hunter @Hackerone & @bugcrowd.
+Hi! I'm **Saad Zia**. I am web penetration tester and bug hunter @Hackerone and @bugcrowd.
 
 Google dorking is a hacker technique that uses Google Search and other Google applications to find security holes in the configuration and computer code that websites are using. Every cyber security professional needs to have a good knowledge of google dork. Through dorking, you can even get bounty finding sensetive information that may put company in a risk. Here I tried little to put all google dorking related information in one place. So that, you did not need to go somewhere else. So let's get started!  
 
@@ -17,3 +17,7 @@ The Google search engine works similarly to an interpreter using search strings 
    - Google advanced operators help refine searches. 
    - They are included as part of a standard Google query.
    - Advanced operators use a syntax such as the following:    
+   
+   operator:search_term
+   - There’s no space between the operator, the colon, and the 
+search term
