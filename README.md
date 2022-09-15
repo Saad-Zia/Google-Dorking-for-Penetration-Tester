@@ -92,4 +92,6 @@ Here are the three steps to follow:
 2.	Ensure sufficient bandwidth
 3.	Create and deploy your website to your local server
 
+- **1) Select equipment and software to build your server**
+
 
