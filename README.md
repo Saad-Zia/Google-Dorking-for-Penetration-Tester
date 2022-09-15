@@ -20,6 +20,11 @@ Hosting a website simply means making sure that your website can be accessible o
 
 - **Buy a domain name**
      - Any website needs a name. Therefore, the first step is to register a domain name for your future website. The name of the website will become its permanent address where users can find it on the Internet.
-
+     
+- **Decide which types of websites you are building**    
+  
+ There are two main types of websites;
+   - Static 
+   - Dynamic 
 
 
