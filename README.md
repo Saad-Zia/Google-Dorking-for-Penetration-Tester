@@ -24,8 +24,8 @@ Here are the five steps to host a website with a hosting service provider;
      
 - **Decide which types of websites you are building**    
   
-  1) Static
-  2) Dynamic
+ 1) Static
+ 2) Dynamic
  
     - A static website delivers the same page and content to all users.
 Examples include blogs, portfolio websites, and business websites. Static sites can usually take a more basic web hosting plan as they require less storage space and server resources.
@@ -69,4 +69,8 @@ Here are some of the best security practices a hosting company should follow:
 6) Denial-of-service (DDoS) prevention
 7) Access restriction
 
-    
+- **Select a web hosting plan**
+   - Once you have a host platform you like the look of, you still need to narrow your decision down to a plan. There are numerous types of hosting (shared, cloud, VPS, and more), and there is usually a selection of plan tiers within each type. For example, HostGator has three shared hosting plans — Hatchling, Baby, and Business.
+But first things first. Let’s be clear on what the different types of web hosting are and why it’s important to know the difference. Getting the best deal possible depends on you understanding your needs. There’s no sense in signing up to a $10 a month plan when a $3 a month plan will serve you just as well. Your site may grow to need that $10 plan, but why sign up earlier than you have to?
+Below, then, is a brief overview of the main types of hosting and the brackets they typically serve best.
+
