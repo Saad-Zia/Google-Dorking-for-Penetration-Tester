@@ -44,5 +44,8 @@ We’ve provided an overview of these. Below are some of the key factors to cons
    2) Redundancy
       - When a small website goes down due to hosting provider problems, it might bounce back unaffected. When downtime happens to a business that relies on their website as their main source of income, this can result in revenue loss. So when a hosting provider offers "redundancy," this simply means they'll compensate a website if an outage occurs as a result of server issues on their side.
 
+   3) Database Type
+      - The most common type of database used by WordPress and other content management systems (CMS) is MySQL. Some websites require other databases, such as SQLite, so check what type your website needs first and then see if it's available with your respective hosting provider.
 
-
+   4) Bandwidth Offering
+      - Bandwidth is an indicator of the amount of data (or traffic) that has been transferred between the website and users during the customer’s interaction with your resource. To determine what type of hosting you need, think about what your website will be like. If you plan to rely on media materials, e.g. video clips or advertising videos, audio recordings, or even intend to broadcast to your audience in real time, you should definitely consider plans with a higher bandwidth quota of up to 150 GB per month. Website owners who rely mainly on text content and use additional platforms to store their podcasts, movies and images, in most cases, a basic 10 GB will be enough.
