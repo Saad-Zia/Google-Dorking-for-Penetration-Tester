@@ -24,7 +24,7 @@ Hosting a website simply means making sure that your website can be accessible o
 - **Decide which types of websites you are building**    
   
  There are two main types of websites;
-    1) Static 
-    2) Dynamic 
+   - 1) Static 
+   - 2) Dynamic 
 
 
