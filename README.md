@@ -1,4 +1,4 @@
-# Google-Dorking-for-Penetration-Tester
+# Google Dorking for Penetration Tester
 
 Hi! I'm **Saad Zia**. I am web penetration tester and bug hunter @Hackerone & @bugcrowd.
 
