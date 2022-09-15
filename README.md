@@ -14,6 +14,6 @@ Google dorking is a hacker technique that uses Google Search and other Google ap
 The Google search engine works similarly to an interpreter using search strings and operators. For example, you can say that Google reacts sensitively to certain search strings when applied with specific operators. However, you will learn more about it later in the tutorial on ‘what is Google Dorking’.
 
 # Advanced Operators
-    - Google advanced operators help refine searches. 
-    - They are included as part of a standard Google query.
-    - Advanced operators use a syntax such as the following:    
+   - Google advanced operators help refine searches. 
+   - They are included as part of a standard Google query.
+   - Advanced operators use a syntax such as the following:    
