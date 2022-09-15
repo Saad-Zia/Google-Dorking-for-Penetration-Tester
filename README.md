@@ -1,15 +1,18 @@
-# Google Dorking for Penetration Tester
+# How to Host a Website?
 
 Hi! I'm **Saad Zia**. I am web penetration tester and bug hunter @Hackerone and @bugcrowd.
 
-Google dorking is a hacker technique that uses Google Search and other Google applications to find security holes in the configuration and computer code that websites are using. Every cyber security professional needs to have a good knowledge of google dork. Through dorking, you can even get bounty finding sensetive information that may put company in a risk. Here I tried little to put all google dorking related information in one place. So that, you did not need to go somewhere else. So let's get started!  
+Hosting a website simply means making sure that your website can be accessible on the World Wide Web (WWW). This can be done in two ways. You can: 
+   - Host a website with web hosting company
+   - Host it yourself at your own server
+ So let's get started!  
 
 ***NOTE:*** Whatever I shared here that could be limited. If you want to add something with repository, please share it here. So that, we can learn together...
 
 # Introduction
 
- - **What is Google Dorking?**
-      -  Google Dorking or Google hacking refers to using Google search techniques to hack into vulnerable sites or search for information that is not available in public search results.
+ - **What is Web?**
+      -  The Web is the common name for the World Wide Web, a subset of the Internet consisting of the pages that can be accessed by a Web browser. Many people assume that the Web is the same as the Internet, and use these terms interchangeably. However, the term Internet actually refers to the global network of servers that makes the information sharing that happens over the Web possible. So, although the Web does make up a large portion of the Internet, but they are not one and same..
 
 The Google search engine works similarly to an interpreter using search strings and operators. For example, you can say that Google reacts sensitively to certain search strings when applied with specific operators. However, you will learn more about it later in the tutorial on ‘what is Google Dorking’.
 
@@ -21,4 +24,4 @@ The Google search engine works similarly to an interpreter using search strings 
         operator:search_term
         
    - There’s no space between the operator, the colon, and the 
-search term
+search term!
