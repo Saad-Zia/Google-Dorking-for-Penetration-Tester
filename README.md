@@ -80,3 +80,16 @@ Below, then, is a brief overview of the main types of hosting and the brackets t
     - Once your domain name and web hosting plan is ready it’s time for migration. Site migration can be complex, so if you’re doing this for the first time, ask for help from your new host. Some web hosting companies offer free site migrations.
 If you have built your website locally (on your own computer) then simply transfer our files onto your web server. To do this you can either make use of the File Manager in your web hosting control panel or make the transfer using an FTP client.
 The process is similar to copying files from one place to another on your own computer.
+
+ # How to Host a Website at Your Own Server?
+ Hosting a website at your own web server from scratch means that you are responsible for everything from the hardware and software all the way to bandwidth provision and other infrastructure needs.
+
+It is complex and very expensive.
+
+Here are the three steps to follow:
+
+1.	Select equipment and software to build your server
+2.	Ensure sufficient bandwidth
+3.	Create and deploy your website to your local server
+
+
