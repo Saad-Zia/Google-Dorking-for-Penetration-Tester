@@ -8,7 +8,7 @@ Hosting a website simply means making sure that your website can be accessible o
  
  We will look into both methods.
  
- - **How to Host a Website With Hosing Provider?**
+ # How to Host a Website With Hosing Provider?
  
  Here are the five steps to host a website with a hosting service provider.
    - Buy a domain name
