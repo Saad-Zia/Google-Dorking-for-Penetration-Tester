@@ -109,3 +109,11 @@ DynDNS or by buying the service from your Internet Service Provider (ISP).
 - **3) Ensure sufficient bandwidth**
      
      - The next part is similar to the experience of using a web hosting provider, except that you don’t get any support. Your web files need to be moved onto your web host in order for your site to start functioning.
+ 
+  
+# Conclusion
+
+  - Going with a web hosting company is the most convenient and cost-effective approach to hosting a website.
+You don’t have to worry about the technicalities including hardware maintenance, software installation, resource management, bandwidth, and storage configuration behind your website management.
+If you’re highly technical and know how to host a website, then you can host a website in your home server. But we don’t recommend it.
+
