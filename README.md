@@ -70,7 +70,13 @@ Here are some of the best security practices a hosting company should follow:
 7) Access restriction
 
 - **Select a web hosting plan**
+
    - Once you have a host platform you like the look of, you still need to narrow your decision down to a plan. There are numerous types of hosting (shared, cloud, VPS, and more), and there is usually a selection of plan tiers within each type. For example, HostGator has three shared hosting plans — Hatchling, Baby, and Business.
 But first things first. Let’s be clear on what the different types of web hosting are and why it’s important to know the difference. Getting the best deal possible depends on you understanding your needs. There’s no sense in signing up to a $10 a month plan when a $3 a month plan will serve you just as well. Your site may grow to need that $10 plan, but why sign up earlier than you have to?
 Below, then, is a brief overview of the main types of hosting and the brackets they typically serve best.
 
+- **Move your website to the server**
+
+    - Once your domain name and web hosting plan is ready it’s time for migration. Site migration can be complex, so if you’re doing this for the first time, ask for help from your new host. Some web hosting companies offer free site migrations.
+If you have built your website locally (on your own computer) then simply transfer our files onto your web server. To do this you can either make use of the File Manager in your web hosting control panel or make the transfer using an FTP client.
+The process is similar to copying files from one place to another on your own computer.
