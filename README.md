@@ -10,7 +10,8 @@ Hosting a website simply means making sure that your website can be accessible o
  
  # How to Host a Website With Hosing Provider?
  
- Here are the five steps to host a website with a hosting service provider.
+ Here are the five steps to host a website with a hosting service provider; 
+ 
     1) Buy a domain name
     2) Decide which types of website you are building
     3) Choose a website hosting company
@@ -32,6 +33,10 @@ Examples include blogs, portfolio websites, and business websites. Static sites 
     - A dynamic website displays adaptive content that varies for each visitor based on their site settings or user behavior. Such as Social networking sites, eCommerce sites, and subscription-based websites like Netflix.
 Therefore, dynamic sites often need a more comprehensive and customizable hosting plan with increased storage space, memory, and bandwidth.
 
+- **Choose a webite hosting company**
+
+Once you’ve had a look at the top hosting companies, you need to pick one! There are a number of features you should consider when choosing a website hosting company.
+We’ve provided an overview of these. Below are some of the key factors to consider:
 
 
 
