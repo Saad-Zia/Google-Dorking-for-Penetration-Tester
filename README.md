@@ -10,13 +10,13 @@ Hosting a website simply means making sure that your website can be accessible o
  
  # How to Host a Website With Hosing Provider?
  
- Here are the five steps to host a website with a hosting service provider; 
+Here are the five steps to host a website with a hosting service provider; 
  
-    1) Buy a domain name
-    2) Decide which types of website you are building
-    3) Choose a website hosting company
-    4) Select a web hosting plan
-    5) Move your website to the server
+1) Buy a domain name
+2) Decide which types of website you are building
+3) Choose a website hosting company
+4) Select a web hosting plan
+5) Move your website to the server
 
 
 - **Buy a domain name**
@@ -24,8 +24,8 @@ Hosting a website simply means making sure that your website can be accessible o
      
 - **Decide which types of websites you are building**    
   
-         - 1) Static
-         - 2) Dynamic
+  1) Static
+  2) Dynamic
  
     - A static website delivers the same page and content to all users.
 Examples include blogs, portfolio websites, and business websites. Static sites can usually take a more basic web hosting plan as they require less storage space and server resources.
