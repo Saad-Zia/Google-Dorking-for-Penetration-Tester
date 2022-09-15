@@ -9,7 +9,7 @@ Google dorking is a hacker technique that uses Google Search and other Google ap
 # Introduction
 
  - **What is Google Dorking?**
-        -  Google Dorking or Google hacking refers to using Google search techniques to hack into vulnerable sites or search for information that is not available in public search results.
+      -  Google Dorking or Google hacking refers to using Google search techniques to hack into vulnerable sites or search for information that is not available in public search results.
 
 The Google search engine works similarly to an interpreter using search strings and operators. For example, you can say that Google reacts sensitively to certain search strings when applied with specific operators. However, you will learn more about it later in the tutorial on ‘what is Google Dorking’.
 
