@@ -5,6 +5,7 @@ Hi! I'm **Saad Zia**. I am web penetration tester and bug hunter @Hackerone and 
 Hosting a website simply means making sure that your website can be accessible on the World Wide Web (WWW). This can be done in two ways. You can: 
    - Host a website with web hosting company
    - Host it yourself at your own server
+ 
  So let's get started!  
 
 ***NOTE:*** Whatever I shared here that could be limited. If you want to add something with repository, please share it here. So that, we can learn together...
@@ -14,7 +15,6 @@ Hosting a website simply means making sure that your website can be accessible o
  - **What is Web?**
       -  The Web is the common name for the World Wide Web, a subset of the Internet consisting of the pages that can be accessed by a Web browser. Many people assume that the Web is the same as the Internet, and use these terms interchangeably. However, the term Internet actually refers to the global network of servers that makes the information sharing that happens over the Web possible. So, although the Web does make up a large portion of the Internet, but they are not one and same..
 
-The Google search engine works similarly to an interpreter using search strings and operators. For example, you can say that Google reacts sensitively to certain search strings when applied with specific operators. However, you will learn more about it later in the tutorial on ‘what is Google Dorking’.
 
 # Advanced Operators
    - Google advanced operators help refine searches. 
