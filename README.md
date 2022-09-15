@@ -42,7 +42,7 @@ We’ve provided an overview of these. Below are some of the key factors to cons
   - First things first, you want to make sure your website is available 24/7/365. The last thing you want your visitors to see is a blank screen when they type in your address into their browser. Look for a hosting provider with an uptime guarantee of 99.5% or above. If you plan on running a small website with modest traffic levels, uptime might never be an issue. However, if your website grows, uptime is incredibly important so you can avoid any downtime or upgrade complications.
  
    2) Redundancy
-When a small website goes down due to hosting provider problems, it might bounce back unaffected. When downtime happens to a business that relies on their website as their main source of income, this can result in revenue loss. So when a hosting provider offers "redundancy," this simply means they'll compensate a website if an outage occurs as a result of server issues on their side.
+      - When a small website goes down due to hosting provider problems, it might bounce back unaffected. When downtime happens to a business that relies on their website as their main source of income, this can result in revenue loss. So when a hosting provider offers "redundancy," this simply means they'll compensate a website if an outage occurs as a result of server issues on their side.
 
 
 
