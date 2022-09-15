@@ -11,11 +11,11 @@ Hosting a website simply means making sure that your website can be accessible o
  # How to Host a Website With Hosing Provider?
  
  Here are the five steps to host a website with a hosting service provider.
-    1) Buy a domain name
-    2) Decide which types of website you are building
-    3) Choose a website hosting company
-    4) Select a web hosting plan
-    5) Move your website to the server
+           1) Buy a domain name
+           2) Decide which types of website you are building
+           3) Choose a website hosting company
+           4) Select a web hosting plan
+           5) Move your website to the server
 
 
 - **Buy a domain name**
